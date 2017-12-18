@@ -1,0 +1,17 @@
+<!-- docs/_sidebar.md -->
+
+- [About](/)
+- [Introduction](introduction.md)
+- [Getting Started](getting-started.md#Getting-Started)
+ - [Installation](getting-started.md#Installation)
+ - [Activation](getting-started.md#Activation)
+ - [Removal](getting-started.md#Removal)
+- [Configuration](configuration.md#Configuration)
+  - [Instafeed](configuration.md#Instafeed-integration)
+- [Customization](customization.md#Customization)
+  - [Logo](customization.md#Logo)
+  - [Background](customization.md#Background)
+  - [Social Accounts](customization.md#Social-Accounts)
+  - [Styling](customization.md#Styling)
+  - [Recompile](customization.md#Recompile)
+- [Credits](credits.md)
